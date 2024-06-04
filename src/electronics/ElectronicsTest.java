@@ -156,7 +156,7 @@ public class ElectronicsTest extends Utility {
         //2.20 Fill the mandatory fields
         sendTextToElement(By.id("FirstName"), "smita");
         sendTextToElement(By.id("LastName"), "Vaja");
-        sendTextToElement(By.id("Email"), "smitavaja@gmail.com");
+        sendTextToElement(By.id("Email"), "smitavaja+1@gmail.com");
         sendTextToElement(By.id("Password"), "Admin@123");
         sendTextToElement(By.id("ConfirmPassword"), "Admin@123");
 
